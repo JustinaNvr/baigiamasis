@@ -1,0 +1,68 @@
+body {
+    background-image: url("walpaper.jpg");
+}
+
+.side{
+    .img-responsive;
+    height: 30px;
+    width: 30px;
+}
+.laces {
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bckgrnd {
+    background: rgba(255, 250, 240, 0.9);
+    font-family: "Courier New";
+}
+
+.a-bg-img {
+    background-image: url("aboutusnav.jpg");
+    height: 300px;
+    width: 100%;
+}
+
+.h-bg-img {
+    background-image: url("homenav.jpg");
+    height: 300px;
+    margin-bottom: 10px;
+}
+.b-bg-img {
+    background-image: url("basketnav.jpg");
+    height: 300px;
+    width: 100%;
+}
+.c-bg-img {
+    background-image: url("contactsnav.jpg");
+    height: 300px;
+    width: 100%;
+}
+.p-bg-img {
+    background-image: url("blank.jpg");
+    height: 300px;
+    width: 100%;
+}
+
+.demo{
+    display: flex;
+    padding: 10px;
+    background: rgba(255, 250, 240, 0.75);
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 220px; height: 250px;
+}
+.display{
+    display: flex;
+    width: 200px; height: 200px;
+ }
+
+.info{
+    padding: 20px;
+    margin: 20px;
+}
